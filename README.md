@@ -1,5 +1,4 @@
-## Hi there 👋
-# Hi there 👋 I'm Andrew Willacy
+## Hi there 👋 I'm Andrew
 
 ## About me
 
@@ -58,7 +57,8 @@ Analyzed sales patterns to optimize store operations as supervisor.
 
 ## Education
 
-- **LSE Data Analytics Career Accelerator** (2024-2025)
+- **Data Science Affinity** (2025-2026)
+- **LSE Data Analytics Career Accelerator** (2025)
 - **MSc Information Technology** - University of Abertay, Dundee
 - **BA (Hons) Retail and Distribution Management** - University of Abertay, Dundee
 
