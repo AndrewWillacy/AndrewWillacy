@@ -6,9 +6,9 @@
 - 🔄 Career changer: 22 years in retail/customer service operations, now transitioning to data analytics.
 - 💼 I bring deep business understanding from operational roles combined with newly acquired technical data skills.
 - 💚 I love data and I have a passion for solving real business problems with analytics.
-- 🎓 Currently completing the Data Analytics Career Accelerator with the London School of Economics (2024-2025).
-- 🎯 Recent project: Built a Random Forest model achieving 78% accuracy analyzing tech stock earnings for hedge fund strategy.
-- 📧 How to find me: tamar72aw@gmail.co.uk | [LinkedIn](https://www.linkedin.com/in/andrew-willacy-572682347/)
+- 🎓 Recently completed the Data Analytics Career Accelerator with the London School of Economics.
+- 🎯 Recent project: Built a Random Forest model analyzing tech stock earnings for hedge fund strategy.
+- 📧 How to find me: andrew.willacy.data@gmail.com | [LinkedIn](https://www.linkedin.com/in/andrew-willacy-572682347/)
 
 ## Technical skills
 
