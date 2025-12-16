@@ -16,7 +16,7 @@
 - **Visualization:** Tableau, Power BI, Excel (Advanced)
 - **Python Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 - **Data Skills:** Data cleaning, statistical analysis, predictive modeling, data storytelling
-- **Tools:** Git, Jupyter Notebooks, PostgreSQL
+- **Tools:** Git/Github, Jupyter Notebooks, PostgreSQL
 
 ## What makes me different
 
