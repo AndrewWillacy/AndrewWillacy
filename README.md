@@ -63,6 +63,5 @@ Analyzed sales patterns to optimize store operations as supervisor.
 
 ---
 
-💡 *"I've been analyzing data for 22 years—I just started using Python 7 months ago."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kittyg80&color=blue)
