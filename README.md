@@ -3,7 +3,7 @@
 ## About me
 
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 I am from Perth, Scotland.
-- 🔄 Career changer: 22 years in retail/customer service operations, now transitioning to data analytics.
+- 🔄 Career changer: 22 years in retail/customer service operations, including data analytics, now transitioning to data analytics.
 - 💼 I bring deep business understanding from operational roles combined with newly acquired technical data skills.
 - 💚 I love data and I have a passion for solving real business problems with analytics.
 - 🎓 Recently completed the Data Analytics Career Accelerator with the London School of Economics.
