@@ -58,43 +58,43 @@ Analysed retail customer and transaction data to understand customer demographic
 
 Applied statistical and machine learning techniques to analyse customer behaviour and identify drivers of loyalty and revenue.
 
-Key outcomes:
+#### Key outcomes:
 
-Segmented customers into distinct behavioural and value-based groups using clustering techniques
+* Segmented customers into distinct behavioural and value-based groups using clustering techniques
 
-Built predictive models to identify high-value customers and churn risk
+* Built predictive models to identify high-value customers and churn risk
 
-Delivered recommendations to support targeted retention and engagement strategies
+* Delivered recommendations to support targeted retention and engagement strategies
 
-Tools used: Python, Pandas, regression, decision trees, clustering
+#### Tools used: Python, Pandas, regression, decision trees, clustering
 
 ### [NHS Appointment and Healthcare Utilisation Analysis](https://github.com/AndrewWillacy/NHS-Appointment-Utilisation-and-Missed-Appointments-Analysis)
 
 Analysed large-scale NHS appointment data to identify patterns in attendance, utilisation, and operational performance.
 
-Key outcomes:
+#### Key outcomes:
 
-Cleaned and validated large healthcare datasets to ensure accuracy and consistency
+* Cleaned and validated large healthcare datasets to ensure accuracy and consistency
 
-Identified trends affecting healthcare utilisation and service delivery
+* Identified trends affecting healthcare utilisation and service delivery
 
-Generated insight to support operational planning and resource management
+* Generated insight to support operational planning and resource management
 
-Tools used: Python, Excel
+#### Tools used: Python, Excel
 
 ### Financial Market Analysis – Employer Project
 
 Analysed financial time series data using statistical modelling techniques and presented findings to external stakeholders.
 
-Key outcomes:
+#### Key outcomes:
 
-Applied statistical analysis to identify market patterns and behavioural trends
+* Applied statistical analysis to identify market patterns and behavioural trends
 
-Presented analysis and recommendations to external client stakeholders
+* Presented analysis and recommendations to external client stakeholders
 
-Translated technical findings into clear business-focused insight
+*Translated technical findings into clear business-focused insight
 
-Tools used: Python, statistical modelling
+#### Tools used: Python, statistical modelling
 
 ## About Me
 
