@@ -54,7 +54,7 @@ Delivered recommendations to improve targeting and revenue performance
 
 Tools used: SQL, Excel, Tableau
 
-### Customer Segmentation and Loyalty Modelling (Turtle Games)
+### [Customer Segmentation and Loyalty Modelling: Turtle Games](https://github.com/AndrewWillacy/Turtle-Games)
 
 Applied statistical and machine learning techniques to analyse customer behaviour and identify drivers of loyalty and revenue.
 
@@ -68,7 +68,7 @@ Delivered recommendations to support targeted retention and engagement strategie
 
 Tools used: Python, Pandas, regression, decision trees, clustering
 
-### NHS Appointment and Healthcare Utilisation Analysis
+### [NHS Appointment and Healthcare Utilisation Analysis](https://github.com/AndrewWillacy/NHS-Appointment-Utilisation-and-Missed-Appointments-Analysis)
 
 Analysed large-scale NHS appointment data to identify patterns in attendance, utilisation, and operational performance.
 
