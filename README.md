@@ -1,5 +1,45 @@
 ## Hi there 👋 I'm Andrew
 
+Andrew Willacy – Data Analyst Portfolio
+
+I am a Data Analyst specialising in customer behaviour, segmentation, and performance analysis. I use SQL, Python, Excel, and Tableau to extract, clean, and analyse large datasets, identify patterns, and deliver actionable business insight.
+
+My background in retail operations provides strong commercial understanding of customer behaviour, operational performance, and data accuracy. I have applied analytical techniques to customer demographics, marketing effectiveness, and operational performance datasets, translating complex data into clear recommendations to support decision-making.
+
+I recently completed the Data Analytics Career Accelerator at the London School of Economics (Distinction), where I delivered multiple commercial analytics projects and presented findings to external stakeholders.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## About me
 
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 I am from Perth, Scotland.
