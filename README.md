@@ -6,7 +6,7 @@ I am a Data Analyst specialising in customer behaviour, segmentation, and perfor
 
 My background in retail operations provides strong commercial understanding of customer behaviour, operational performance, and data accuracy. I have applied analytical techniques to customer demographics, marketing effectiveness, and operational performance datasets, translating complex data into clear recommendations to support decision-making.
 
-I have delivered analytical projects involving customer behaviour, segmentation, and performance analysis.
+I have delivered multiple analytical projects involving customer behaviour, segmentation, and performance analysis.
 
 ## Core Skills
 
