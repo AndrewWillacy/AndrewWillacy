@@ -38,21 +38,6 @@ I recently completed the Data Analytics Career Accelerator at the London School 
 * Translating analysis into actionable business recommendations
 
 ## Portfolio Projects
-### [Customer Demographics and Marketing Effectiveness Analysis: 2Market](https://github.com/AndrewWillacy/2Market-Retail-Sales-Analysis)
-
-Analysed retail customer and transaction data to understand customer demographics, purchasing behaviour, and marketing effectiveness.
-
-#### Key outcomes:
-
-* Identified high-value customer segments based on demographic and purchasing behaviour
-
-* Analysed marketing channel performance to determine effectiveness and ROI contribution
-
-* Developed Tableau dashboards presenting actionable insight for marketing optimisation
-
-* Delivered recommendations to improve targeting and revenue performance
-
-#### Tools used: SQL, Excel, Tableau
 
 ### [Customer Segmentation and Loyalty Modelling: Turtle Games](https://github.com/AndrewWillacy/Turtle-Games)
 
@@ -81,6 +66,23 @@ Analysed large-scale NHS appointment data to identify patterns in attendance, ut
 * Generated insight to support operational planning and resource management
 
 #### Tools used: Python, Excel
+
+### [Customer Demographics and Marketing Effectiveness Analysis: 2Market](https://github.com/AndrewWillacy/2Market-Retail-Sales-Analysis)
+
+Analysed retail customer and transaction data to understand customer demographics, purchasing behaviour, and marketing effectiveness.
+
+#### Key outcomes:
+
+* Identified high-value customer segments based on demographic and purchasing behaviour
+
+* Analysed marketing channel performance to determine effectiveness and ROI contribution
+
+* Developed Tableau dashboards presenting actionable insight for marketing optimisation
+
+* Delivered recommendations to improve targeting and revenue performance
+
+#### Tools used: SQL, Excel, Tableau
+
 
 ### Financial Market Analysis – Employer Project
 
