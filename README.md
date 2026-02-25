@@ -42,7 +42,7 @@ I recently completed the Data Analytics Career Accelerator at the London School 
 
 Analysed retail customer and transaction data to understand customer demographics, purchasing behaviour, and marketing effectiveness.
 
-Key outcomes:
+#### Key outcomes:
 
 Identified high-value customer segments based on demographic and purchasing behaviour
 
