@@ -17,25 +17,25 @@ I recently completed the Data Analytics Career Accelerator at the London School 
 
 * Python (Pandas, regression, clustering, decision trees, predictive modelling)
 
-Excel (advanced formulas, pivot tables, data cleaning, statistical analysis)
+* Excel (advanced formulas, pivot tables, data cleaning, statistical analysis)
 
-Tableau (dashboard development and visualisation)
+* Tableau (dashboard development and visualisation)
 
-Power BI (performance monitoring and reporting)
+* Power BI (performance monitoring and reporting)
 
 ## Analytical Capabilities
 
-Customer segmentation and behavioural analysis
+* Customer segmentation and behavioural analysis
 
-Marketing and campaign performance analysis
+* Marketing and campaign performance analysis
 
-Data cleaning, validation, and transformation
+* Data cleaning, validation, and transformation
 
-KPI analysis and performance monitoring
+* KPI analysis and performance monitoring
 
-Dashboard development and data visualisation
+* Dashboard development and data visualisation
 
-Translating analysis into actionable business recommendations
+* Translating analysis into actionable business recommendations
 
 ## Portfolio Projects
 ### [Customer Demographics and Marketing Effectiveness Analysis: 2Market](https://github.com/AndrewWillacy/2Market-Retail-Sales-Analysis)
