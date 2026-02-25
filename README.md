@@ -92,8 +92,8 @@ Analysed financial time series data using statistical modelling techniques and p
 
 * Presented analysis and recommendations to external client stakeholders
 
-*Translated technical findings into clear business-focused insight
-
+* Translated technical findings into clear business-focused insight
+ 
 #### Tools used: Python, statistical modelling
 
 ## About Me
