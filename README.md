@@ -23,7 +23,7 @@ Tableau (dashboard development and visualisation)
 
 Power BI (performance monitoring and reporting)
 
-Analytical Capabilities
+## Analytical Capabilities
 
 Customer segmentation and behavioural analysis
 
@@ -37,7 +37,7 @@ Dashboard development and data visualisation
 
 Translating analysis into actionable business recommendations
 
-Portfolio Projects
+## Portfolio Projects
 Customer Demographics and Marketing Effectiveness Analysis (2Market)
 
 Analysed retail customer and transaction data to understand customer demographics, purchasing behaviour, and marketing effectiveness.
@@ -96,11 +96,11 @@ Translated technical findings into clear business-focused insight
 
 Tools used: Python, statistical modelling
 
-About Me
+## About Me
 
 I am particularly interested in roles involving customer analytics, performance analysis, and data-driven decision-making. I enjoy working with complex datasets, ensuring data quality, and translating analysis into practical insight that supports business and operational improvement.
 
-Contact
+## Contact
 
 Email: andrew.willacy.data@gmail.com
 
