@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Andrew
 
-Andrew Willacy – Data Analyst Portfolio
+## Andrew Willacy – Data Analyst Portfolio
 
 I am a Data Analyst specialising in customer behaviour, segmentation, and performance analysis. I use SQL, Python, Excel, and Tableau to extract, clean, and analyse large datasets, identify patterns, and deliver actionable business insight.
 
@@ -9,7 +9,7 @@ My background in retail operations provides strong commercial understanding of c
 I recently completed the Data Analytics Career Accelerator at the London School of Economics (Distinction), where I delivered multiple commercial analytics projects and presented findings to external stakeholders.
 
 
-Core Skills
+## Core Skills
 
 Data Analysis and Tools
 
