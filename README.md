@@ -11,7 +11,7 @@ I recently completed the Data Analytics Career Accelerator at the London School 
 
 ## Core Skills
 
-Data Analysis and Tools
+# Data Analysis and Tools
 
 SQL (joins, aggregations, filtering, data extraction, cohort analysis)
 
