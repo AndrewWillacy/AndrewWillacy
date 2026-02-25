@@ -28,12 +28,7 @@
 
 ## Featured projects
 
-### 📈 Post-Earnings Drift Analysis
-Developed quantitative trading strategy analyzing stock performance following earnings announcements for NVIDIA, Apple, and Google (2015-2025).
-- **Tech:** Python, Pandas, yfinance API, Random Forest, Matplotlib
-- **Result:** 78% model accuracy, identified 8.7% average returns with 75% win rate
-
-### 🌍 Global Retail Analytics
+### 🌍 2Market: Global Retail Analytics
 Market segmentation analysis identifying high-growth opportunities across multiple regions.
 - **Tech:** Python, SQL, Tableau
 - **Result:** Identified 3 markets with 40%+ growth potential through data cleaning and visualization
