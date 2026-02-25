@@ -112,6 +112,7 @@ I am particularly interested in roles involving customer analytics, performance 
 Email: andrew.willacy.data@gmail.com
 
 LinkedIn: linkedin.com/in/andrew-willacy-572682347
+
 GitHub: github.com/AndrewWillacy
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AndrewWillacy&color=blue)
