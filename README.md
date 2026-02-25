@@ -38,7 +38,7 @@ Dashboard development and data visualisation
 Translating analysis into actionable business recommendations
 
 ## Portfolio Projects
-### Customer Demographics and Marketing Effectiveness Analysis (2Market)
+### Customer Demographics and Marketing Effectiveness Analysis [(2Market)(https://github.com/AndrewWillacy/2Market-Retail-Sales-Analysis)
 
 Analysed retail customer and transaction data to understand customer demographics, purchasing behaviour, and marketing effectiveness.
 
