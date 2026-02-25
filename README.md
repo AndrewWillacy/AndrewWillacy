@@ -2,11 +2,9 @@
 
 ## Hi there 👋 I'm Andrew
 
-I am a Data Analyst specialising in customer behaviour, segmentation, and performance analysis. I use SQL, Python, Excel, and Tableau to extract, clean, and analyse large datasets, identify patterns, and deliver actionable business insight.
+I am a Data Analyst specialising in customer behaviour, segmentation, and performance analysis. I use SQL, Python, Excel, and Tableau to extract, validate, and interpret large datasets, turning complex information into clear, actionable business insight.
 
 My background in retail operations provides strong commercial understanding of customer behaviour, operational performance, and data accuracy. I have applied analytical techniques to customer demographics, marketing effectiveness, and operational performance datasets, translating complex data into clear recommendations to support decision-making.
-
-I have delivered multiple analytical projects involving customer behaviour, segmentation, and performance analysis.
 
 ## Core Skills
 
@@ -28,7 +26,7 @@ I have delivered multiple analytical projects involving customer behaviour, segm
 
 * Marketing and campaign performance analysis
 
-* Data cleaning, validation, and transformation
+* Data cleaning, validation, transformation, and integrity control
 
 * KPI analysis and performance monitoring
 
@@ -42,7 +40,7 @@ I have delivered multiple analytical projects involving customer behaviour, segm
 
 Applied statistical and machine learning techniques to analyse customer behaviour and identify drivers of loyalty and revenue.
 
-#### Key outcomes:
+#### Business Impact:
 
 * Segmented customers into distinct behavioural and value-based groups using clustering techniques
 
@@ -56,7 +54,7 @@ Applied statistical and machine learning techniques to analyse customer behaviou
 
 Analysed large-scale NHS appointment data to identify patterns in attendance, utilisation, and operational performance.
 
-#### Key outcomes:
+#### Business Impact:
 
 * Cleaned and validated large healthcare datasets to ensure accuracy and consistency
 
@@ -70,7 +68,7 @@ Analysed large-scale NHS appointment data to identify patterns in attendance, ut
 
 Analysed retail customer and transaction data to understand customer demographics, purchasing behaviour, and marketing effectiveness.
 
-#### Key outcomes:
+#### Business Impact:
 
 * Identified high-value customer segments based on demographic and purchasing behaviour
 
@@ -87,9 +85,9 @@ Analysed retail customer and transaction data to understand customer demographic
 
 Analysed financial time series data using statistical modelling techniques and presented findings to external stakeholders.
 
-#### Key outcomes:
+#### Business Impact:
 
-* Applied statistical analysis to identify market patterns and behavioural trends
+* Applied statistical modelling techniques to explore market patterns and behavioural trends
 
 * Presented analysis and recommendations to external client stakeholders
 
@@ -103,12 +101,11 @@ My background in retail operations provides strong real-world understanding of h
 
 I have hands-on experience working with live operational data, ensuring accuracy, investigating discrepancies, and translating performance data into actionable insight.
 
-This operational experience complements my technical analytical skills, allowing me to focus not just on analysis, but on delivering insight that supports practical business decisions.
-
+This operational experience complements my technical analytical skills, enabling me to deliver insight that supports practical, commercially grounded business decisions.
 
 ## About Me
 
-I am particularly interested in roles involving customer analytics, performance analysis, and data-driven decision-making. I enjoy working with complex datasets, ensuring data quality, and translating analysis into practical insight that supports business and operational improvement.
+I am particularly interested in roles involving customer analytics, performance optimisation, and data-driven decision-making within commercially focused organisations. I enjoy working with complex datasets, ensuring data quality, and translating analysis into practical insight that supports business and operational improvement.
 
 ## Contact
 
@@ -117,5 +114,5 @@ Email: andrew.willacy.data@gmail.com
 LinkedIn: linkedin.com/in/andrew-willacy-572682347
 GitHub: github.com/AndrewWillacy
 
+![Profile Views](https://komarev.com/ghpvc/?username=AndrewWillacy&color=blue)
 
-![Profile Views](https://komarev.com/ghpvc/?username=kittyg80&color=blue)
