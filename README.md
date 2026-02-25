@@ -13,9 +13,9 @@ I recently completed the Data Analytics Career Accelerator at the London School 
 
 ### Data Analysis and Tools
 
-SQL (joins, aggregations, filtering, data extraction, cohort analysis)
+*SQL (joins, aggregations, filtering, data extraction, cohort analysis)
 
-Python (Pandas, regression, clustering, decision trees, predictive modelling)
+*Python (Pandas, regression, clustering, decision trees, predictive modelling)
 
 Excel (advanced formulas, pivot tables, data cleaning, statistical analysis)
 
