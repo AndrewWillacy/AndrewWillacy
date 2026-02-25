@@ -44,15 +44,15 @@ Analysed retail customer and transaction data to understand customer demographic
 
 #### Key outcomes:
 
-Identified high-value customer segments based on demographic and purchasing behaviour
+* Identified high-value customer segments based on demographic and purchasing behaviour
 
-Analysed marketing channel performance to determine effectiveness and ROI contribution
+* Analysed marketing channel performance to determine effectiveness and ROI contribution
 
-Developed Tableau dashboards presenting actionable insight for marketing optimisation
+* Developed Tableau dashboards presenting actionable insight for marketing optimisation
 
-Delivered recommendations to improve targeting and revenue performance
+* Delivered recommendations to improve targeting and revenue performance
 
-Tools used: SQL, Excel, Tableau
+#### Tools used: SQL, Excel, Tableau
 
 ### [Customer Segmentation and Loyalty Modelling: Turtle Games](https://github.com/AndrewWillacy/Turtle-Games)
 
