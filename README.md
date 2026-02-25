@@ -96,6 +96,15 @@ Analysed financial time series data using statistical modelling techniques and p
  
 #### Tools used: Python, statistical modelling
 
+## What makes me different
+
+My background in retail operations provides strong real-world understanding of how data reflects customer behaviour, operational performance, and business outcomes.
+
+I have hands-on experience working with live operational data, ensuring accuracy, investigating discrepancies, and translating performance data into actionable insight.
+
+This operational experience complements my technical analytical skills, allowing me to focus not just on analysis, but on delivering insight that supports practical business decisions.
+
+
 ## About Me
 
 I am particularly interested in roles involving customer analytics, performance analysis, and data-driven decision-making. I enjoy working with complex datasets, ensuring data quality, and translating analysis into practical insight that supports business and operational improvement.
@@ -106,93 +115,6 @@ Email: andrew.willacy.data@gmail.com
 
 LinkedIn: linkedin.com/in/andrew-willacy-572682347
 GitHub: github.com/AndrewWillacy
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## About me
-
-- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 I am from Perth, Scotland.
-- 🔄 Career changer: 22 years in retail/customer service operations, including data analytics, now transitioning to data analytics.
-- 💼 I bring deep business understanding from operational roles combined with newly acquired technical data skills.
-- 💚 I love data and I have a passion for solving real business problems with analytics.
-- 🎓 Recently completed the Data Analytics Career Accelerator with the London School of Economics.
-- 🎯 Recent project: Built a Random Forest model analyzing tech stock earnings for hedge fund strategy.
-- 📧 How to find me: andrew.willacy.data@gmail.com | [LinkedIn](https://www.linkedin.com/in/andrew-willacy-572682347/)
-
-## Technical skills
-
-- **Languages:** Python, SQL, R
-- **Visualization:** Tableau, Power BI, Excel (Advanced)
-- **Python Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-- **Data Skills:** Data cleaning, statistical analysis, predictive modeling, data storytelling
-- **Tools:** Git/Github, Jupyter Notebooks, PostgreSQL
-
-## What makes me different
-
-- **Real business experience:** 22 years understanding customer behavior, sales patterns, and operational efficiency
-- **Proven leadership:** Won regional sales competition through data-driven performance tracking
-- **Problem solver:** Used Power BI and data analysis to optimize store operations and inform decision-making
-- **Quick learner:** Transitioned from retail supervisor to building machine learning models in 7 months
-- **Communication:** Can translate complex data insights for non-technical stakeholders
-
-## Featured projects
-
-### 🌍 2Market: Global Retail Analytics
-Market segmentation analysis identifying high-growth opportunities across multiple regions.
-- **Tech:** Python, SQL, Tableau
-- **Result:** Identified 3 markets with 40%+ growth potential through data cleaning and visualization
-
-### 🏆 Gift Card Sales Competition Winner
-Led store team to win regional competition through data-driven performance tracking.
-- **Tech:** Data analysis, performance tracking, comparative analytics
-- **Result:** Won area competition for most gift cards sold (Christmas 2022), outperforming all regional competitors
-
-### 📊 Power BI Sales Analytics
-Analyzed sales patterns to optimize store operations as supervisor.
-- **Tech:** Power BI, sales data analysis
-- **Result:** Identified best-selling categories and peak times, informed scheduling and inventory decisions
-
-## Currently learning
-
-- Advanced machine learning techniques
-- Cloud computing (AWS)
-- Big data processing with PySpark
-- Advanced SQL optimization
-
-## Education
-
-- **LSE Data Analytics Career Accelerator** (2025)
-- **MSc Information Technology** - University of Abertay, Dundee
-- **BA (Hons) Retail and Distribution Management** - University of Abertay, Dundee
-
----
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kittyg80&color=blue)
