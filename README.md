@@ -38,7 +38,7 @@ Dashboard development and data visualisation
 Translating analysis into actionable business recommendations
 
 ## Portfolio Projects
-Customer Demographics and Marketing Effectiveness Analysis (2Market)
+### Customer Demographics and Marketing Effectiveness Analysis (2Market)
 
 Analysed retail customer and transaction data to understand customer demographics, purchasing behaviour, and marketing effectiveness.
 
@@ -54,7 +54,7 @@ Delivered recommendations to improve targeting and revenue performance
 
 Tools used: SQL, Excel, Tableau
 
-Customer Segmentation and Loyalty Modelling (Turtle Games)
+### Customer Segmentation and Loyalty Modelling (Turtle Games)
 
 Applied statistical and machine learning techniques to analyse customer behaviour and identify drivers of loyalty and revenue.
 
@@ -68,7 +68,7 @@ Delivered recommendations to support targeted retention and engagement strategie
 
 Tools used: Python, Pandas, regression, decision trees, clustering
 
-NHS Appointment and Healthcare Utilisation Analysis
+### NHS Appointment and Healthcare Utilisation Analysis
 
 Analysed large-scale NHS appointment data to identify patterns in attendance, utilisation, and operational performance.
 
@@ -82,7 +82,7 @@ Generated insight to support operational planning and resource management
 
 Tools used: Python, Excel
 
-Financial Market Analysis – Employer Project
+### Financial Market Analysis – Employer Project
 
 Analysed financial time series data using statistical modelling techniques and presented findings to external stakeholders.
 
