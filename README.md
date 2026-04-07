@@ -64,7 +64,7 @@ Analysed large-scale NHS appointment data to identify patterns in attendance, ut
 
 #### Tools used: Python, Excel
 
-### [Customer Demographics and Marketing Effectiveness Analysis: 2Market](https://github.com/AndrewWillacy/2Market-Retail-Sales-Analysis)
+### [Customer Demographics and Marketing Campaign Analysis: 2Market](https://github.com/AndrewWillacy/2Market-Retail-Sales-Analysis)
 
 Analysed retail customer and transaction data to understand customer demographics, purchasing behaviour, and marketing effectiveness.
 
