@@ -111,7 +111,7 @@ I am particularly interested in roles involving customer analytics, performance 
 
 Email: andrew.willacy.data@gmail.com
 
-LinkedIn: linkedin.com/in/andrew-willacy-572682347
+LinkedIn: https://www.linkedin.com/in/andrew-willacy-572682347/
 
 GitHub: https://github.com/AndrewWillacy
 
