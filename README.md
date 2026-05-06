@@ -79,7 +79,6 @@ My background in retail operations provides strong commercial understanding of c
 * Delivered recommendations to improve targeting and revenue performance
 
 #### Tools used: SQL, Excel, Tableau
----
 
 ### [FINANCIAL MARKET ANALYSIS:](https://github.com/AndrewWillacy/Financial-Market-Analysis)
 
