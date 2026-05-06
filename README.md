@@ -81,8 +81,8 @@ Analysed retail customer and transaction data to understand customer demographic
 #### Tools used: SQL, Excel, Tableau
 
 
-### [Financial Market Analysis: Predicting Post-Announcement Drift in US Tech Stocks Using Python & Machine Learning:](https://github.com/AndrewWillacy/Financial-Market-Analysis)
-
+### [FINANCIAL MARKET ANALYSIS:](https://github.com/AndrewWillacy/Financial-Market-Analysis)
+Predicting Post-Announcement Drift in US Tech Stocks Using Python & Machine Learning
 Analysed financial time series data using statistical modelling techniques and presented findings to external stakeholders.
 
 #### Business Impact:
