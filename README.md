@@ -83,6 +83,7 @@ Analysed retail customer and transaction data to understand customer demographic
 
 ### [FINANCIAL MARKET ANALYSIS:](https://github.com/AndrewWillacy/Financial-Market-Analysis)
 
+
 > *Predicting Post-Announcement Drift in US Tech Stocks Using Python & Machine Learning*
 
 Analysed financial time series data using statistical modelling techniques and presented findings to external stakeholders**
