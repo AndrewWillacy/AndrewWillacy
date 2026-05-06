@@ -81,7 +81,7 @@ Analysed retail customer and transaction data to understand customer demographic
 #### Tools used: SQL, Excel, Tableau
 
 
-### Financial Market Analysis – Employer Project
+### [FINANCIAL MARKET ANALYSIS:](https://github.com/AndrewWillacy/Financial-Market-Analysis)
 
 Analysed financial time series data using statistical modelling techniques and presented findings to external stakeholders.
 
