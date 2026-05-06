@@ -38,7 +38,7 @@ My background in retail operations provides strong commercial understanding of c
 
 ### [Customer Segmentation and Loyalty Modelling: Turtle Games](https://github.com/AndrewWillacy/Turtle-Games)
 
-Applied statistical and machine learning techniques to analyse customer behaviour and identify drivers of loyalty and revenue.
+> *Applied statistical and machine learning techniques to analyse customer behaviour and identify drivers of loyalty and revenue*
 
 #### Business Impact:
 
@@ -52,7 +52,7 @@ Applied statistical and machine learning techniques to analyse customer behaviou
 
 ### [NHS Appointment and Healthcare Utilisation Analysis](https://github.com/AndrewWillacy/NHS-Appointment-Utilisation-and-Missed-Appointments-Analysis)
 
-Analysed large-scale NHS appointment data to identify patterns in attendance, utilisation, and operational performance.
+> *Analysed large-scale NHS appointment data to identify patterns in attendance, utilisation, and operational performance*
 
 #### Business Impact:
 
@@ -66,7 +66,7 @@ Analysed large-scale NHS appointment data to identify patterns in attendance, ut
 
 ### [CUSTOMER BEHAVIOUR & ENGAGEMENT ANALYSIS:](https://github.com/AndrewWillacy/CUSTOMER-BEHAVIOUR-ENGAGEMENT-ANALYSIS-)
 
-Analysed retail customer and transaction data to understand customer demographics, purchasing behaviour, and marketing effectiveness.
+> *Analysed retail customer and transaction data to understand customer demographics, purchasing behaviour, and marketing effectiveness*
 
 #### Business Impact:
 
