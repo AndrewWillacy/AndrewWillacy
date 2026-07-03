@@ -36,7 +36,7 @@ My background in retail operations provides strong commercial understanding of c
 
 ## Portfolio Projects
 
-### [CUSTOMER SEGMENTATION AND LOYALTY MODELLING:](https://github.com/AndrewWillacy/Turtle-Games)
+### [CUSTOMER LOYALTY, SEGMENTATION AND SENTIMENT ANALYSIS:](https://github.com/AndrewWillacy/Turtle-Games)
 
 > *Applied statistical and machine learning techniques to analyse customer behaviour and identify drivers of loyalty and revenue*
 
