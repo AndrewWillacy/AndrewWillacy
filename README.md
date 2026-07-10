@@ -50,7 +50,7 @@ My background in retail operations provides strong commercial understanding of c
 
 #### Tools used: Python, Pandas, regression, decision trees, clustering
 
-### [NHS APPOINTMENT AND HEALTHCARE UTILISATION ANALYSIS:](https://github.com/AndrewWillacy/NHS-Appointment-Utilisation-and-Missed-Appointments-Analysis)
+### [NHS HEATHCARE: APPOINTMENT, UTILISATION AND CAPACITY ANALYSIS:](https://github.com/AndrewWillacy/NHS-Appointment-Utilisation-and-Missed-Appointments-Analysis)
 
 > *Analysed large-scale NHS appointment data to identify patterns in attendance, utilisation, and operational performance*
 
