@@ -64,7 +64,7 @@ My background in retail operations provides strong commercial understanding of c
 
 #### Tools used: Python, Excel
 
-### INTERNATIONAL RETAIL PERFORMANCE ANALYSIS:](https://github.com/AndrewWillacy/CUSTOMER-BEHAVIOUR-ENGAGEMENT-ANALYSIS-)
+### [INTERNATIONAL RETAIL PERFORMANCE ANALYSIS:](https://github.com/AndrewWillacy/CUSTOMER-BEHAVIOUR-ENGAGEMENT-ANALYSIS-)
 
 > *Analysed retail customer and transaction data to understand customer demographics, purchasing behaviour, and marketing effectiveness*
 
