@@ -11,6 +11,13 @@ I completed the **LSE Data Analytics Career Accelerator with Distinction** and h
 ---
 
 ## Technical Toolkit
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" alt="R" width="45" height="45"/>
+</p>
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="28" height="28" /> Python
 - Data cleaning, transformation and ETL
