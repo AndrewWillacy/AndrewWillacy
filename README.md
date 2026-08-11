@@ -20,8 +20,8 @@ I completed the **LSE Data Analytics Career Accelerator with Distinction** and h
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" alt="R" width="45" height="45"/>   
   &nbsp;&nbsp;
-  <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/66a3b5c4-ef91-4251-a3ea-d221ee815aad" />
-</p>
+  <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/66a3b5c4-ef91-4251-a3ea-d221ee815aad" /> 
+  </p>
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="28" height="28" /> Python
 - Data cleaning, transformation and ETL
