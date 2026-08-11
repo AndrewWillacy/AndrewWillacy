@@ -44,6 +44,8 @@ I completed the **LSE Data Analytics Career Accelerator with Distinction** and h
 - Analysis, reporting and operational modelling
 - Applied to customer, commercial and operational datasets
 
+### <img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/a7aa6ca2-78c4-4b14-98eb-4aa8d0065bb6" /> Business Intelligence & Visualisation
+
 ### <img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/66a3b5c4-ef91-4251-a3ea-d221ee815aad" /> Business Intelligence & Visualisation
 
 - **Power BI** — interactive dashboards, KPI monitoring, operational and promotional performance reporting
