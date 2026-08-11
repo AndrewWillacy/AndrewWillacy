@@ -46,11 +46,11 @@ I completed the **LSE Data Analytics Career Accelerator with Distinction** and h
 
 ### <img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/a7aa6ca2-78c4-4b14-98eb-4aa8d0065bb6" /> Business Intelligence & Visualisation
 
-- **Tableau** — interactive dashboards, data visualisation and communicating analytical findings
+- **Tableau**: Interactive dashboards, data visualisation and communicating analytical findings
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" alt="R" width="28" height="28"/>  Statistical & Customer Analytics
 
-- **R** — regression, k-means clustering and sentiment analysis
+- **R**: Regression, k-means clustering and sentiment analysis
 - Customer segmentation and behaviour analysis
 - Trend and performance analysis
 - Root-cause analysis and data quality
@@ -151,7 +151,7 @@ Current areas of development include:
 🎓 **LSE Data Analytics Career Accelerator — Distinction**  
 🎓 **MSc Information Technology**
 
-My earlier career spans customer-facing operations, operational performance and technical support. Rather than leaving that experience behind, I use it to provide context for my analytical work — understanding the people, processes and systems that generate the data.
+My earlier career spans customer-facing operations, operational performance and technical support. Rather than leaving that experience behind, I use it to provide context for my analytical work - understanding the people, processes and systems that generate the data.
 
 ---
 
