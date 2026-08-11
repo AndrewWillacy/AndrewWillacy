@@ -128,7 +128,7 @@ GitHub: https://github.com/AndrewWillacy
 
 I combine operational understanding, technical experience and modern analytical capability to turn complex data into clear evidence for better business decisions.
 
-My background spans customer-facing and operational roles, technical support and data analytics. This gives me a practical understanding of the customers, systems, processes and business context behind the data — and the ability to bridge **practical business realities with technical data execution**.
+My background spans customer-facing and operational roles, technical support and data analytics. This gives me a practical understanding of the customers, systems, processes and business context behind the data - and the ability to bridge **practical business realities with technical data execution**.
 
 I completed the **LSE Data Analytics Career Accelerator with Distinction** and hold an **MSc in Information Technology**.
 
@@ -150,12 +150,12 @@ I completed the **LSE Data Analytics Career Accelerator with Distinction** and h
 - Currently extending my capability with **window functions**
 
 ### Business Intelligence & Visualisation
-- **Power BI** — interactive dashboards, KPI monitoring, operational and promotional performance reporting
-- **Tableau** — interactive dashboards, data visualisation and communicating analytical findings
-- **Excel** — PivotTables, lookups, data validation, analysis and reporting
+- **Power BI**: interactive dashboards, KPI monitoring, operational and promotional performance reporting
+- **Tableau**: interactive dashboards, data visualisation and communicating analytical findings
+- **Excel**: PivotTables, lookups, data validation, analysis and reporting
 
 ### Statistical & Customer Analytics
-- **R** — regression, k-means clustering and sentiment analysis
+- **R**: regression, k-means clustering and sentiment analysis
 - Customer segmentation and behaviour analysis
 - Trend and performance analysis
 - Root-cause analysis and data quality
