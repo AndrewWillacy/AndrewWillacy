@@ -44,9 +44,12 @@ I completed the **LSE Data Analytics Career Accelerator with Distinction** and h
 - Analysis, reporting and operational modelling
 - Applied to customer, commercial and operational datasets
 
-### <img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/a7aa6ca2-78c4-4b14-98eb-4aa8d0065bb6" /> Business Intelligence & Visualisation
+### <img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/a7aa6ca2-78c4-4b14-98eb-4aa8d0065bb6" /> Tableau 
 
-- **Tableau**: Interactive dashboards, data visualisation and communicating analytical findings
+- Interactive dashboards and data visualisation
+- Communicating analytical findings to non-technical audiences
+- Customer, commercial and performance reporting
+- Applied to international retail performance analysis
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" alt="R" width="28" height="28"/>  Statistical & Customer Analytics
 
