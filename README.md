@@ -211,7 +211,8 @@ The analysis also tested clustering at different levels of data granularity to a
 
 Analysed financial-market data to investigate performance, relationships and market behaviour, translating technical analysis into findings suitable for non-technical stakeholders.
 
-➡️ View project below in my repositories.
+➡️ [View project](https://github.com/AndrewWillacy/Financial-Market-Analysis)
+
 
 ---
 
