@@ -12,6 +12,44 @@ I completed the **LSE Data Analytics Career Accelerator with Distinction** and h
 
 ## Technical Toolkit
 
+### 🐍 Python
+- Data cleaning, transformation and ETL
+- Exploratory data analysis and validation
+- Pandas, NumPy and Matplotlib
+- Jupyter Notebook
+- Applied to large operational datasets, including **1 million+ NHS appointment records**
+
+### 🗄️ SQL | PostgreSQL
+- Relational querying and data extraction
+- Joins, aggregations and subqueries
+- Data validation and analysis
+- Currently extending my capability with **window functions**
+
+### 📊 Excel
+- PivotTables and PivotCharts
+- VLOOKUP and lookup functions
+- Data cleaning, validation and transformation
+- Analysis, reporting and operational modelling
+- Applied to customer, commercial and operational datasets
+
+### 📈 Business Intelligence & Visualisation
+- **Power BI** — interactive dashboards, KPI monitoring, operational and promotional performance reporting
+- **Tableau** — interactive dashboards, data visualisation and communicating analytical findings
+
+### 📐 Statistical & Customer Analytics
+- **R** — regression, k-means clustering and sentiment analysis
+- Customer segmentation and behaviour analysis
+- Trend and performance analysis
+- Root-cause analysis and data quality
+- Requirements gathering and translating findings into actionable recommendations
+
+
+
+
+
+
+
+
 ### Python
 - Data cleaning, transformation and ETL
 - Exploratory data analysis and validation
