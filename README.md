@@ -25,7 +25,7 @@ I completed the **LSE Data Analytics Career Accelerator with Distinction** and h
 - Data validation and analysis
 - Currently extending my capability with **window functions**
 
-### <img width="28" height="28" alt="Picture4" src="https://github.com/user-attachments/assets/29bdf81d-7e43-4846-803d-74b1aa8cd097" />Excel
+### <img width="28" height="28" alt="Picture4" src="https://github.com/user-attachments/assets/29bdf81d-7e43-4846-803d-74b1aa8cd097" /> Excel
 
 - PivotTables and PivotCharts
 - VLOOKUP and lookup functions
