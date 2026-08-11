@@ -84,13 +84,13 @@ The analysis also tested clustering at different levels of data granularity to a
 ## Financial Market Analysis
 **Python | Machine Learning | API Integration | Event Study Analysis | NLP**
 
-Analysed **129 quarterly earnings events** across Apple, Google and NVIDIA over a **10-year period (2015–2025)** to investigate whether pre-earnings behaviour and earnings surprises could predict post-announcement stock performance.
+Analysed 129 quarterly earnings events across Apple, Google and NVIDIA over a 10-year period (2015–2025), translating stakeholder requirements into an analytical approach to investigate whether pre-earnings behaviour and earnings surprises could predict post-announcement stock performance.
 
 Built an end-to-end Python workflow integrating earnings, market and macroeconomic data from multiple APIs. Engineered features including EPS surprise, pre-event momentum, volatility and **5/10/20/30-day Cumulative Abnormal Returns (CAR)**, and applied Random Forest modelling and NLP sentiment analysis.
 
-The analysis identified **EPS surprise and pre-earnings momentum as the strongest signals**, while mixed predictive-model performance demonstrated the limitations of machine learning in noisy short-term financial data and supported a more interpretable rules-based approach.
+The analysis identified EPS surprise and pre-earnings momentum as the strongest signals, while mixed predictive-model performance demonstrated the limitations of machine learning in noisy short-term financial data and supported a more interpretable rules-based approach. Findings and recommendations were presented directly to the employer client's analytics team.
 
-**Key themes:** Python pipeline development, API integration, feature engineering, event-study methodology, machine learning, NLP and stakeholder communication.
+**Key themes:** stakeholder requirements, Python pipeline development, API integration, feature engineering, event-study methodology, machine learning, NLP and stakeholder delivery.
 
 ➡️ [View project](https://github.com/AndrewWillacy/Financial-Market-Analysis)
 
