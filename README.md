@@ -39,7 +39,7 @@ I completed the **LSE Data Analytics Career Accelerator with Distinction** and h
 ### <img width="28" height="28" alt="Picture4" src="https://github.com/user-attachments/assets/29bdf81d-7e43-4846-803d-74b1aa8cd097" /> Excel
 
 - PivotTables and PivotCharts
-- VLOOKUP and lookup functions
+- XLOOKUP, VLOOKUP and lookup functions
 - Data cleaning, validation and transformation
 - Analysis, reporting and operational modelling
 - Applied to customer, commercial and operational datasets
