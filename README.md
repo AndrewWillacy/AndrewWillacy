@@ -148,7 +148,7 @@ Current areas of development include:
 
 # Background
 
-🎓 **LSE Data Analytics Career Accelerator — Distinction**  
+🎓 **LSE Data Analytics Career Accelerator - Distinction**  
 🎓 **MSc Information Technology**
 
 My earlier career spans customer-facing operations, operational performance and technical support. Rather than leaving that experience behind, I use it to provide context for my analytical work - understanding the people, processes and systems that generate the data.
