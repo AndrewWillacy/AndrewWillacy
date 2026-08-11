@@ -205,14 +205,18 @@ The analysis also tested clustering at different levels of data granularity to a
 ➡️ [View project](https://github.com/AndrewWillacy/Turtle-Games)
 
 ---
-
 ## Financial Market Analysis
-**Data Analysis | Statistical Modelling | Financial Data**
+**Python | Machine Learning | API Integration | Event Study Analysis | NLP**
 
-Analysed financial-market data to investigate performance, relationships and market behaviour, translating technical analysis into findings suitable for non-technical stakeholders.
+Analysed **129 quarterly earnings events** across Apple, Google and NVIDIA over a **10-year period (2015–2025)** to investigate whether pre-earnings behaviour and earnings surprises could predict post-announcement stock performance.
+
+Built an end-to-end Python workflow integrating earnings, market and macroeconomic data from multiple APIs. Engineered features including EPS surprise, pre-event momentum, volatility and **5/10/20/30-day Cumulative Abnormal Returns (CAR)**, and applied Random Forest modelling and NLP sentiment analysis.
+
+The analysis identified **EPS surprise and pre-earnings momentum as the strongest signals**, while mixed predictive-model performance demonstrated the limitations of machine learning in noisy short-term financial data and supported a more interpretable rules-based approach.
+
+**Key themes:** Python pipeline development, API integration, feature engineering, event-study methodology, machine learning, NLP and stakeholder communication.
 
 ➡️ [View project](https://github.com/AndrewWillacy/Financial-Market-Analysis)
-
 
 ---
 
