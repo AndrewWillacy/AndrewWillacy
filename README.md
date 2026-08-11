@@ -150,12 +150,12 @@ I completed the **LSE Data Analytics Career Accelerator with Distinction** and h
 - Currently extending my capability with **window functions**
 
 ### Business Intelligence & Visualisation
-- **Power BI**: interactive dashboards, KPI monitoring, operational and promotional performance reporting
-- **Tableau**: interactive dashboards, data visualisation and communicating analytical findings
+- **Power BI**: Interactive dashboards, KPI monitoring, operational and promotional performance reporting
+- **Tableau**: Interactive dashboards, data visualisation and communicating analytical findings
 - **Excel**: PivotTables, lookups, data validation, analysis and reporting
 
 ### Statistical & Customer Analytics
-- **R**: regression, k-means clustering and sentiment analysis
+- **R**: Regression, k-means clustering and sentiment analysis
 - Customer segmentation and behaviour analysis
 - Trend and performance analysis
 - Root-cause analysis and data quality
