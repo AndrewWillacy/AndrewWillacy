@@ -49,7 +49,8 @@ I completed the **LSE Data Analytics Career Accelerator with Distinction** and h
 - **Power BI** — interactive dashboards, KPI monitoring, operational and promotional performance reporting
 - **Tableau** — interactive dashboards, data visualisation and communicating analytical findings
 
-### Statistical & Customer Analytics
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" alt="R" width="28" height="28"/>  Statistical & Customer Analytics
+
 - **R** — regression, k-means clustering and sentiment analysis
 - Customer segmentation and behaviour analysis
 - Trend and performance analysis
