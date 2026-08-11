@@ -18,10 +18,10 @@ I completed the **LSE Data Analytics Career Accelerator with Distinction** and h
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" alt="R" width="45" height="45"/>   
+  <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/a7aa6ca2-78c4-4b14-98eb-4aa8d0065bb6" />  
   &nbsp;&nbsp;
-  <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/a7aa6ca2-78c4-4b14-98eb-4aa8d0065bb6" />
-   </p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" alt="R" width="45" height="45"/>  
+  </p>
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="28" height="28" /> Python
 - Data cleaning, transformation and ETL
@@ -46,9 +46,6 @@ I completed the **LSE Data Analytics Career Accelerator with Distinction** and h
 
 ### <img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/a7aa6ca2-78c4-4b14-98eb-4aa8d0065bb6" /> Business Intelligence & Visualisation
 
-
-
-- **Power BI** — interactive dashboards, KPI monitoring, operational and promotional performance reporting
 - **Tableau** — interactive dashboards, data visualisation and communicating analytical findings
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" alt="R" width="28" height="28"/>  Statistical & Customer Analytics
