@@ -12,8 +12,6 @@ I completed the **LSE Data Analytics Career Accelerator with Distinction** and h
 
 ## Technical Toolkit
 
-## Technical Toolkit
-
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="28" height="28" /> Python
 - Data cleaning, transformation and ETL
 - Exploratory data analysis and validation
@@ -26,30 +24,9 @@ I completed the **LSE Data Analytics Career Accelerator with Distinction** and h
 - Joins, aggregations and subqueries
 - Data validation and analysis
 - Currently extending my capability with **window functions**
+<img width="28" height="28" alt="Picture4" src="https://github.com/user-attachments/assets/29bdf81d-7e43-4846-803d-74b1aa8cd097" />
 
 ### <img src="EXCEL_LOGO_URL" width="28" height="28" /> Excel
-- PivotTables and PivotCharts
-- VLOOKUP and lookup functions
-- Data cleaning, validation and transformation
-- Analysis, reporting and operational modelling
-- Applied to customer, commercial and operational datasets
-
-
-
-### Python
-- Data cleaning, transformation and ETL
-- Exploratory data analysis and validation
-- Pandas, NumPy and Matplotlib
-- Jupyter Notebook
-- Applied to large operational datasets, including **1 million+ NHS appointment records**
-
-### SQL | PostgreSQL
-- Relational querying and data extraction
-- Joins, aggregations and subqueries
-- Data validation and analysis
-- Currently extending my capability with **window functions**
-
-### Excel
 - PivotTables and PivotCharts
 - VLOOKUP and lookup functions
 - Data cleaning, validation and transformation
